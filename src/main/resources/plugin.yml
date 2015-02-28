@@ -1,3 +1,0 @@
-name: SpudInstantSpawn
-main: rocks.spud.server.instantspawn.InstantSpawnPlugin
-version: ${project.version}
